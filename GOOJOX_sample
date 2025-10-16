@@ -5,8 +5,8 @@
  <company>Общество с ограниченной ответственностью &quot;ГУДЖОКС &quot;</company>
  <url>https://goojox.ru</url>
 <categories>
- <category id="12032" >Мужчинам</category>
- <category id="12128" parentId="12032" >Верхняя одежда</category>
+ <category id="12032">Мужчинам</category>
+ <category id="12128" parentId="12032">Верхняя одежда</category>
  </categories>
 <offers>
 <offer id="3652495" available="true" >
