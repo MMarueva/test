@@ -1,1 +1,41 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-10-16T20:53:45+03:00">
+    <shop>
+        <name>GOOJOX</name>
+        <company>ООО "ГУДЖОКС"</company>
+        <url>https://goojox.ru</url>
+        <currencies>
+            <currency id="RUR" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="12032">Мужчинам</category>
+            <category id="12128" parentId="12032">Верхняя одежда</category>
+        </categories>
+        <offers>
+            <offer id="3652495">
+                <name>Кожаная куртка BELPHEGOR Lerouch</name>
+                <url>https://goojox.ru/details/kozhanaya-kurtka-belphegor-3652495</url>
+                <price>88500</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>12128</categoryId>
+                <vendor>Lerouch</vendor>
+                <typePrefix>куртка</typePrefix>
+                <picture>https://goojox.ru/api/contentstoreservice/photo/catalog/dd976dbc-9937-461c-84dd-6f16ecab2bc2?format=WEBP&amp;size=MIDDLE_PLUS</picture>
+                <picture>https://goojox.ru/api/contentstoreservice/photo/catalog/347cccf1-245c-419b-a3a3-13ca020b388e?format=WEBP&amp;size=MIDDLE_PLUS</picture>
+                <picture>https://goojox.ru/api/contentstoreservice/photo/catalog/950008d3-81bd-4d80-bcab-f01bf425bd0a?format=WEBP&amp;size=MIDDLE_PLUS</picture>
+                <picture>https://goojox.ru/api/contentstoreservice/photo/catalog/f496b851-6b23-41be-8ba6-8340368bc89d?format=WEBP&amp;size=MIDDLE_PLUS</picture>
+                <picture>https://goojox.ru/api/contentstoreservice/photo/catalog/f496b851-6b23-41be-8ba6-8340368bc89d?format=WEBP&amp;size=MIDDLE_PLUS</picture>
+                <description>
+                    <![CDATA[
+                       Объемная кожаная куртка из стопроцентной телячьей кожи, дополнена двойной асимметричной застежкой-молнией, отложным воротником с кнопками и ремнем, который регулирует ширину низа изделия. Благодаря свободному крою, изделие одинаково комфортно носить как на худи и свитшот, так и на футболку с платьем. Модель выполнена в одном размере. <br><br> Длина рукава от середины ворота 93 см <br> Длина рукава от плеча 62 см <br> Длина изделия от плеча до низа 66 см <br> Длина груди 52 см<br>
+                    ]]>
+                </description>
+                <param name="Цвет">черный</param>
+                <param name="Цвет производителя">черный</param>
+                <param name="Российский размер">черный</param>
+                <param name="Размер производителя">ONE SIZE</param>
+                <param name="Тип">куртка</param>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
